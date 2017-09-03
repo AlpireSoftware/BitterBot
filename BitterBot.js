@@ -15,4 +15,4 @@ client.on("message", (message) =>{
 
 });
 
-client.login("<Bot token>");
+client.login("GQnz32lHERiw_sPTmCMm6AaaRSzXioXY");
