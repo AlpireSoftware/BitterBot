@@ -4,7 +4,7 @@ const Client = new Discord.Client();
 
 client.on("ready", () => {
 
-  console.log("The bot is alive!");
+  console.log("BitterBot is alive!");
 
 });
 client.on("message", (message) =>{
